@@ -23,7 +23,7 @@ Create a file 'settings.xml' in your .m2 folder and add this fragment to it.
         <url>http://repository.springsource.com/maven/bundles/release</url>
     </pluginRepository>
     
-I have added entire settings.xml as an example.    
+I have added entire settings.xml as an example 'https://github.com/akonczak/spring-data-elasticsearch-mvn-config/blob/master/settings.xml'.    
         
 
 
